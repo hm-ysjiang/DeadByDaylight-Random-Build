@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DeadByDaylight-Random-Build/static/css/main.1401dde8.chunk.css",
+    "main.js": "/DeadByDaylight-Random-Build/static/js/main.09d0fe47.chunk.js",
+    "main.js.map": "/DeadByDaylight-Random-Build/static/js/main.09d0fe47.chunk.js.map",
+    "runtime-main.js": "/DeadByDaylight-Random-Build/static/js/runtime-main.b43caace.js",
+    "runtime-main.js.map": "/DeadByDaylight-Random-Build/static/js/runtime-main.b43caace.js.map",
+    "static/js/2.92bfb9f0.chunk.js": "/DeadByDaylight-Random-Build/static/js/2.92bfb9f0.chunk.js",
+    "static/js/2.92bfb9f0.chunk.js.map": "/DeadByDaylight-Random-Build/static/js/2.92bfb9f0.chunk.js.map",
+    "index.html": "/DeadByDaylight-Random-Build/index.html",
+    "static/css/main.1401dde8.chunk.css.map": "/DeadByDaylight-Random-Build/static/css/main.1401dde8.chunk.css.map",
+    "static/js/2.92bfb9f0.chunk.js.LICENSE.txt": "/DeadByDaylight-Random-Build/static/js/2.92bfb9f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b43caace.js",
+    "static/js/2.92bfb9f0.chunk.js",
+    "static/css/main.1401dde8.chunk.css",
+    "static/js/main.09d0fe47.chunk.js"
+  ]
+}
