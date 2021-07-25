@@ -123,5 +123,6 @@
     "misc_splock-sub": "If on, there will not be a second exhaustion perk when Sprint Burst is already present",
     "misc_clearsetting": "Reset All Settings",
     "misc_clearsetting-btn": "Reset",
-    "misc_version": "Version"
+    "misc_version": "Version",
+    "misc_back": "Back"
 }

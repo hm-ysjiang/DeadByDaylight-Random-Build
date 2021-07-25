@@ -122,5 +122,7 @@
     "misc_splock": "「衝刺爆發」鎖",
     "misc_splock-sub": "如果開啟這個選項，衝刺爆發將不會和其他疲勞技能一起出現",
     "misc_clearsetting": "重設所有設定",
-    "misc_clearsetting-btn": "重設"
+    "misc_clearsetting-btn": "重設",
+    "misc_version": "版本",
+    "misc_back": "返回"
 }
